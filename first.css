@@ -4,3 +4,7 @@
 .second{
     color: red;
 }
+.recbox{
+    border: 3px solid #333;
+    width: 5%;
+}
